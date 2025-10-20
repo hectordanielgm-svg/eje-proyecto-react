@@ -13,5 +13,5 @@ Listo ✅
 
 ## Cómo ejecutar
 ```bash
-npm install
+cd "tema claro oscuro"
 npm run dev
